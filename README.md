@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @lucasSaints
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @lucasSaints, "Lucas Padilha dos Santos" irl. Developer with no real professional experience.
 
 <!---
 lucasSaints/lucasSaints is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
